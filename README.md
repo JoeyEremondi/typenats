@@ -1,4 +1,4 @@
-# elm-typenats
+# typenats
 Helpers for type-level natural-numbers in Elm.
 
 These are useful when describing things like multi-dimensional arrays or lists of fixed length, ensuring that a certain number of elements exist.
